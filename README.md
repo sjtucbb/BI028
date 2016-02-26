@@ -1,7 +1,7 @@
 # BI028
 Course materials for "Linux programming for Bioinformatics"
 
-## Skills
+## The Skills You Need to Master
 1. Git, Markdown
 2. Bash (Shell) Programming
 3. Grep/Sed/Awk for Regular Expression
