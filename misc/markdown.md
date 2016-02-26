@@ -1,6 +1,6 @@
 # Mou
 
-![Mou icon](http://mouapp.com/Mou_12B.png)
+![Mou icon](http://mouapp.com/Mou_128.png)
 
 ## Overview
 
